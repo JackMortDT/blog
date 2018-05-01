@@ -54,7 +54,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Making Devs"} ]
+  organizations = [ { name = "Making Devs", url="//makingdevs.com"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -216,7 +216,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "luis@makingdevs.com"
+    link = "//luis@makingdevs.com"
 
   [[params.social]]
     icon = "github"
