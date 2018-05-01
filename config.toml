@@ -214,11 +214,6 @@ enableGitInfo = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "//luis@makingdevs.com"
-
-  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/LuisSas"
