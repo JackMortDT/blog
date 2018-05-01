@@ -2,6 +2,8 @@
 echo "1.- Add some text to make a great commit"
 read comm
 
+sl
+
 echo "2.- Adding a pushing your changes"
 git add -A
 git commit -m "$comm"
