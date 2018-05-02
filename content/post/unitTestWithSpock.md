@@ -20,7 +20,7 @@ preview = true
 
 +++
 
-Spock es un framework de testing para Java y Groovy, hace que los test se escriban de una manera muy facil y clara de leer y saber que van a probar.
+Spock es un framework de testing para Java y Groovy, hace que los test se escriban de una manera muy facil, clara de leer y saber que van a probar.
 
 Gracias a que sus pruebas que se dividen en bloques estas se ven descriptivas y ayuda que se puedan entender y añadir propias de manera muy sencilla.
 
