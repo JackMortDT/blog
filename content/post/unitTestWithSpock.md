@@ -22,7 +22,7 @@ preview = true
 
 Spock es un framework de testing para Java y Groovy, hace que los test se escriban de una manera muy facil, clara de leer y saber que van a probar.
 
-Gracias a que sus pruebas que se dividen en bloques estas se ven descriptivas y ayuda que se puedan entender y añadir propias de manera muy sencilla.
+Gracias a que sus pruebas que se dividen en bloques estas se ven descriptivas, ayuda que se puedan entender y añadir propias de manera muy sencilla.
 
  Gracias a que se ocupa Groovy para las pruebas esto hace que el manejo de estructuras de datos, como listas o mapas se puedan escribir con muy poco código.
 
