@@ -39,7 +39,7 @@ npm install --general coffeescript
 
 ### Uso
 
-Una vez instalado coffeescript ya podremos hacer uso de este lenguaje y de sus comandos y shell que tiene para ejecutar nuestros códigos
+Una vez instalado coffeescript ya podremos hacer uso de este lenguaje, de su shell y ejecutar los comandos disponibles.
 
 <script src="https://asciinema.org/a/Y6gJINJfSFpfl9OGjb4LkE4g1.js" id="asciicast-Y6gJINJfSFpfl9OGjb4LkE4g1" data-size="small"></script>
 
