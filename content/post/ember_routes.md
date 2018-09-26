@@ -5,7 +5,7 @@ lastmod: 2018-09-24T20:01:26-05:00
 author: LuisSas
 cover: /img/Ember.jpeg
 categories: ["Ember"]
-tags: ["Ember"]
+tags: ["Ember", "Js"]
 draft: true
 ---
 

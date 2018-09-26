@@ -1,24 +1,13 @@
-+++
-title = "Pruebas unitarias con Spock"
-date = 2018-05-01T20:01:09-05:00
-draft = false
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Groovy", "Spock", "Test"]
-categories = []
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# Use `caption` to display an image caption.
-#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
-# Set `preview` to `false` to disable the thumbnail in listings.
-[header]
-image = ""
-caption = ""
-preview = true
-
-+++
+---
+title: "Pruebas unitarias con Spock"
+date: 2018-05-01T20:01:09-05:00
+lastmod: 2018-09-24T20:01:26-05:00
+author: LuisSas
+cover: /img/Spock.png
+categories: ["TDD"]
+tags: ["Groovy", "Spock", "Test"]
+draft: true
+---
 
 Spock es un framework de testing para Java y Groovy, hace que los test se escriban de una manera muy facil, clara de leer y saber que van a probar.
 
@@ -45,7 +34,7 @@ class MathSpec extends Specification{
 }
 ```
 
-Al ejecutar las pruebas se nos muestra cuantos tests fueron, cuantos pasaron y cuantos fallaron 
+Al ejecutar las pruebas se nos muestra cuantos tests fueron, cuantos pasaron y cuantos fallaron
 
 ```java
 JUnit 4 Runner, Tests: 1, Failures: 0, Time: 750
@@ -85,4 +74,4 @@ Condition not satisfied:
 
         at MathSpec.Max of two numbers(MathSpec.groovy:7)
 
-``` 
+```

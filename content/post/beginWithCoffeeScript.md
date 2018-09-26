@@ -1,24 +1,13 @@
-+++
-title = "Comenzando con CoffeeScript"
-date = 2018-05-01T02:42:46-05:00
-draft = false
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["CoffeeScript"]
-categories = []
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# Use `caption` to display an image caption.
-#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
-# Set `preview` to `false` to disable the thumbnail in listings.
-[header]
-image = "coffeescript-logo.png"
-caption = ""
-preview = true
-
-+++
+---
+title: Comenzando con CoffeeScript
+date: 2018-05-01T02:42:46-05:00
+lastmod: 2018-09-24T20:01:26-05:00
+author: LuisSas
+cover: /img/CoffeeScript.jpeg
+categories: ["CoffeeScript", "Js"]
+tags: ["CoffeeScript"]
+draft: true
+---
 
 Hace poco tiempo estuve en el desarrollo de un sistema informático en el cual toda la parte del front estaba hecho con CoffeeScript, por lo cual tuve la necesidad de aprender un poco hacerca de este maravilloso lenguaje
 
@@ -70,7 +59,7 @@ var cube, square;
 
 ### Ventajas de usar CoffeeScript
 
-* Nos permite trabajar de una forma mas sencilla 
+* Nos permite trabajar de una forma mas sencilla
 * Escribir menos código
 * Podemos aprender javascript leyendo el código compilado
 * Facil de mantener

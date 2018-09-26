@@ -1,24 +1,13 @@
-+++
-title = "Primeros pasos con Git"
-date = 2018-05-03T17:11:12-05:00
-draft = false
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# Use `caption` to display an image caption.
-#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
-# Set `preview` to `false` to disable the thumbnail in listings.
-[header]
-image = "git.png"
-caption = ""
-preview = true
-
-+++
+---
+title: "Primeros pasos con Git"
+date: 2018-05-03T17:11:12-05:00
+lastmod: 2018-09-24T20:01:26-05:00
+author: LuisSas
+cover: /img/Git.png
+categories: ["Version Control"]
+tags: ["Git"]
+draft: true
+---
 
 ## Que es Git?
 
@@ -89,7 +78,7 @@ Untracked files:
         git.txt
 
 no changes added to commit (use "git add" and/or "git commit -a")
-➜  gitExample git:(master) ✗ 
+➜  gitExample git:(master) ✗
 ```
 
 Como se pueden dar cuenta nos muestra estos archivos, podemos proceder a agregarlos al área de preparación con ***git add***.
@@ -106,7 +95,7 @@ Changes to be committed:
         modified:   Readme.md
         renamed:    Hola.txt -> git.txt
 
-➜  gitExample git:(master) ✗ 
+➜  gitExample git:(master) ✗
 ```
 
 Al añadir los archivos a esta área se pueden mandar directo a la siguiente con la que seria de las partes más importantes, el "commit", siempre eh oido decir que el commit es lo mas importante y no es para menos ya que lo que hace es pasar a nuestro repo local y preparlo para el remoto.
@@ -121,7 +110,7 @@ Va a tener toda nuestra historia y vamos a poder navegar entre los diferentes Ha
 ➜  gitExample git:(master) git status
 On branch master
 nothing to commit, working directory clean
-➜  gitExample git:(master) 
+➜  gitExample git:(master)
 ```
 
 Para poder ver toda esta historia git proporciona de un log, con varios comandos opcionales despues, pero lo que hacen a grandes rasgos es mostrar nuestra historia.
