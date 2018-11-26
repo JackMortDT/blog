@@ -21,9 +21,11 @@ echo luissas.github.io >> CNAME
 git checkout master
 git add -A
 git commit -m "$comm"
+git checkout master
 git push origin master --force
 echo "4.- Changes in your blog D:"
 cd ..
+git checkout master
 git add -A
 git commit -m "$comm"
 git push origin master --force
