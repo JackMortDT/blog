@@ -17,7 +17,7 @@ hugo --buildDrafts
 cd public
 git checkout master
 touch CNAME
-echo luissas.me >> CNAME
+echo luissas.github.io >> CNAME
 git checkout master
 git add -A
 git commit -m "$comm"
