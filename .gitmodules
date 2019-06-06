@@ -10,3 +10,6 @@
 [submodule "themes/parsa-hugo-personal-blog-theme"]
 	path = themes/parsa-hugo-personal-blog-theme
 	url = https://github.com/themefisher/parsa-hugo-personal-blog-theme.git
+[submodule "publicc"]
+	path = publicc
+	url = git@github.com:LuisSas/luissas.github.io
